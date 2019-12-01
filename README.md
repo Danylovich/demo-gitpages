@@ -3,7 +3,7 @@
 > __Description.__ Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste odit, doloremque fuga excepturi in libero nobis exercitationem esse vitae aliquid dolores ipsa fugit sit odio unde natus velit atque mollitia alias aperiam, perferendis porro. Enim ex, nam odit doloremque illum obcaecati ab laborum fugit, quis possimus corporis aut, praesentium eius.!
 
 ## Web
-[See my site](s://danylovich.github.io/demo-gitpages/)
+[See my site](https://danylovich.github.io/demo-gitpages/)
 
 ### Tables demo
 | F1 | F2 |
